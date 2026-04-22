@@ -6,5 +6,8 @@ class staff_manager
 {
 public:
     staff_manager();
+
+    void show_menu();
+
     ~staff_manager();
 };
