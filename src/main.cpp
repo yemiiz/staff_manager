@@ -4,8 +4,8 @@
 int main()
 {
     // 测试
-    Worker *worker = new Employee(1, "张三", 1);
-    worker->showInfo();
+    // Worker *worker = new Employee(1, "张三", 1);
+    // worker->showInfo();
 
     staff_manager manager;
 
