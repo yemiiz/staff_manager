@@ -23,6 +23,7 @@ int main()
             exit(0);
             return 0;
         case 1: // 添加员工信息
+            manager.add_Emp();
             break;
         case 2: // 显示员工信息
             break;
